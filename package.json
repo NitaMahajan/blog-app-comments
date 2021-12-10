@@ -1,0 +1,26 @@
+{
+  "name": "blog-app-comments",
+  "version": "1.0.0",
+  "description": "Comments service to get and post new comment on a post",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitaMahajan/blog-app-comments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NitaMahajan/blog-app-comments/issues"
+  },
+  "homepage": "https://github.com/NitaMahajan/blog-app-comments#readme"
+}
